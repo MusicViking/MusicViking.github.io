@@ -12,7 +12,7 @@
 
 <div>
     <h2>Education</h2> <hr>
-    <strong >⃝ Computer Science & Engineering</strong> <br>
+    ⃝<strong >Computer Science & Engineering</strong> <br>
     Amrita Vishwa Vidyapeetham, Coimbatore <br>
     <b>9.08</b> <br>
     2020 - Present
