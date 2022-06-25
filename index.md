@@ -1,2 +1,3 @@
-# <span style="color:blue">Sujith Roshan</span>
-## Student
+# Sujith Roshan</span>
+## *Student*
+
