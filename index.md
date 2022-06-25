@@ -1,3 +1,3 @@
-# Sujith Roshan</span>
+# Sujith Roshan
 ## *Student*
 
