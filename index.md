@@ -9,7 +9,7 @@
 
 <div> <!--Education-->
     <h2 style="font-size: 19px">EDUCATION</h2>
-    ⊙ <strong >Computer Science & Engineering</strong> <br>
+    ⊙ <strong>B. Tech. in Computer Science & Engineering</strong> <br>
     Amrita Vishwa Vidyapeetham, Coimbatore <br>
     <b>9.08</b> <br>
     2020 - Present
@@ -28,32 +28,32 @@
 
 <div> <!--Skills-->
     <h2 style="font-size: 19px">SKILLS</h2>
-    ⃝ <strong>Python</strong>
+    ⊙ <strong>Python</strong>
     <br><br>
 </div>
 
 <div> <!--Personal Projects-->
     <h2 style="font-size: 19px">PERSONAL PROJECTS</h2>
-    ⃝ <strong>Computer Science & Engineering</strong>
+    ⊙ <em style="font-size: 15px">Computer Science & Engineering</em>
     <br><br>
 </div>
 
 <div> <!--Certificates-->
     <h2 style="font-size: 19px">CERTIFICATES</h2>
-    ⃝ <strong>Computer Science & Engineering</strong>
+   ⊙ <strong>Computer Science & Engineering</strong>
     <br><br>
 </div>
 
 <div> <!--Languages-->
     <h2 style="font-size: 19px">LANGUAGES</h2>
-    ⃝ <strong>Computer Science & Engineering</strong>
+   ⊙ <strong>Computer Science & Engineering</strong>
     <br><br>
 </div>
 
 <div> <!--Interests-->
     <h2 style="font-size: 19px">INTERESTS</h2>
-    ⃝ <strong>Computer Science & Engineering</strong>
+   ⊙ <strong>Computer Science & Engineering</strong>
     <br><br>
 </div>
 
-Made with ❤️ using Gihub Pages.
+Made with ❤️ using Github Pages.
