@@ -7,7 +7,7 @@
 <hr>
 
 <div> <!--Education-->
-    <h2 style="font-size: 19px">EDUCATION</h2> <hr>
+    <h2 style="font-size: 19px">EDUCATION</h2>
     ⊙ <strong>B. Tech. in Computer Science & Engineering</strong> <br>
     Amrita Vishwa Vidyapeetham, Coimbatore <br>
     <b>9.08</b> <br>
@@ -27,19 +27,19 @@
     The Titan School, Hosur <br>
     <b>93.2%</b> <br>
     2005 - 2018
-    <br><br><br>
-</div>
+    <br><br>
+</div><hr>
 
 <div> <!--Skills-->
-    <h2 style="font-size: 19px">SKILLS</h2> <hr>
+    <h2 style="font-size: 19px">SKILLS</h2>
     ⊙ <strong>Python</strong> ⊙ <strong>Data Structures & Algorithms</strong> <br>
     ⊙ <strong>SQL</strong> ⊙ <strong>C</strong> ⊙ <strong>C++</strong> ⊙ <strong>Java</strong> <br>
     ⊙ <strong>HTML, CSS, JavaScript</strong> 
     <br><br>
-</div>
+</div><hr>
 
 <div> <!--Personal Projects-->
-    <h2 style="font-size: 19px">PERSONAL PROJECTS</h2> <hr>
+    <h2 style="font-size: 19px">PERSONAL PROJECTS</h2>
     ⊙ <strong><em>Optimization Techniques Calculator</em></strong> <br>
     <p style="font-size: 13px">A Python based calculator for both single and multi variable optimisation techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc.</p>
     ⊙ <strong><em>GPA Calculator</em></strong> <br>
@@ -49,10 +49,10 @@
     ⊙ <strong><em>Movie Review Site</em></strong> <br>
     <p style="font-size: 13px">A website that helps you find the perfect movie for the day. Gives short reviews and ratings about the movie/TV-series.</p>
     <br>
-</div>
+</div><hr>
 
 <div> <!--Certificates-->
-    <h2 style="font-size: 19px">CERTIFICATES</h2> <hr>
+    <h2 style="font-size: 19px">CERTIFICATES</h2>
    ⊙ <strong><a href="https://drive.google.com/file/d/1-6ebuPItDKnzw9k3zPPMlLx6nY-DXFue/view?usp=sharing">Programming and Data Science - Foundational Level</a></strong> <br>
    Indian Institute of Technology Madras <br>
    April, 2022
@@ -65,21 +65,21 @@
    Hackerrank <br>
    27 Jan, 2022
    <br><br>
-</div>
+</div><hr>
 
 <div> <!--Languages-->
-    <h2 style="font-size: 19px">LANGUAGES</h2> <hr>
+    <h2 style="font-size: 19px">LANGUAGES</h2>
    ⊙ <strong>English</strong> ⊙ <strong>Hindi</strong> <br>
    ⊙ <strong>Tamil</strong> ⊙ <strong>Kannada</strong> 
     <br><br>
-</div>
+</div><hr>
 
 <div> <!--Interests-->
-    <h2 style="font-size: 19px">INTERESTS</h2> <hr>
+    <h2 style="font-size: 19px">INTERESTS</h2>
    ⊙ <strong>Playing Cricket, Football and Basketball</strong> <br>
    ⊙ <strong>Bingeing movies/ TV shows</strong> <br>
    ⊙ <strong>Travel</strong> <br>
     <br><br>
-</div>
+</div><hr>
 
 Made with ❤️ using GitHub Pages.
