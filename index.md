@@ -4,8 +4,6 @@
 
 📧 sujith_roshan@icloud.com
 
-📞 +91 70102 73621
-
 📍 Hosur, India
 
 <br>
