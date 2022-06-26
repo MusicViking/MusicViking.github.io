@@ -68,6 +68,7 @@
 
 <div> <!--Interests-->
     <h2>INTERESTS</h2>
+   ⊙ <strong>Competetive Coding</strong> <br>
    ⊙ <strong>Playing Cricket, Football and Basketball</strong> <br>
    ⊙ <strong>Bingeing movies/ TV shows</strong> <br>
    ⊙ <strong>Travel</strong> <br>
