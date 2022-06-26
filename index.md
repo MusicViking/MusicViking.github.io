@@ -34,7 +34,7 @@
 
 <div> <!--Personal Projects-->
     <h2 style="font-size: 19px">PERSONAL PROJECTS</h2>
-    ⊙ <em style="font-size: 15px">Computer Science & Engineering</em>
+    ⊙ <strong><em>Computer Science & Engineering</em></strong>
     <br><br>
 </div>
 
