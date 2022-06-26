@@ -10,8 +10,6 @@
 
 <div>
     <h2 style="font-size: 19px">EDUCATION</h2> <hr>
-    ⃝ <strong>Computer Science & Engineering</strong> <br>
-    <h2>Education</h2> <hr>
     ⃝<strong >Computer Science & Engineering</strong> <br>
     Amrita Vishwa Vidyapeetham, Coimbatore <br>
     <b>9.08</b> <br>
