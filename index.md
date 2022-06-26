@@ -3,8 +3,7 @@
 
 📧 sujith_roshan@icloud.com
 
-📍 Hosur, India
-
+📍 Hosur, India 
 <hr>
 <br>
 
