@@ -51,7 +51,7 @@
     <p style="font-size: 13px">A fully-functional Website that helps people pay their taxes online. Built with HTML, CSS, JavaScript at the frontend and PHP at the backend.</p>
     ⊙ <strong><em>Movie Review Site</em></strong> <br>
     <p style="font-size: 13px">A website that helps you find the perfect movie for the day. Gives short reviews and ratings about the movie/TV-series.</p>
-    <br
+    <br>
 </div>
 
 <div> <!--Certificates-->
