@@ -9,17 +9,17 @@
 
 <div>
     <h2 style="font-size: 19px">EDUCATION</h2>
-    - <strong >Computer Science & Engineering</strong> <br>
+    ⊙ <strong >Computer Science & Engineering</strong> <br>
     Amrita Vishwa Vidyapeetham, Coimbatore <br>
     <b>9.08</b> <br>
     2020 - Present
     <br><br>
-    ⃝ <strong>Class XII</strong> <br> 
+    ⊙ <strong>Class XII</strong> <br> 
     Maharishi Vidya Mandir, Hosur <br>
     <b>80%</b> <br>
     2018 - 2020
     <br><br>
-    ⃝ <strong>Class X</strong> <br> 
+    ⊙ <strong>Class X</strong> <br> 
     The Titan School, Hosur <br>
     <b>93.2%</b> <br>
     2005 - 2018
