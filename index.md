@@ -3,7 +3,7 @@
 
 📧 sujith_roshan@icloud.com
 
-![](https://img.icons8.com/ios-glyphs/30/000000/github.png) [MusicViking](https://github.com/MusicViking)
+![](https://img.icons8.com/ios-glyphs/20/000000/github.png) [MusicViking](https://github.com/MusicViking)
 
 📍 Hosur, India
 
