@@ -1,6 +1,5 @@
 # Sujith Roshan
 ### 20, Student
-<br>
 
 📧 sujith_roshan@icloud.com
 
