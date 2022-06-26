@@ -21,7 +21,7 @@
     <b>80%</b> <br>
     2018 - 2020
     <br><br>
-    ⊙ <strong>Class X</strong> <br> 
+    ⊙ <strong>Class X</strong> <br>
     The Titan School, Hosur <br>
     <b>93.2%</b> <br>
     2005 - 2018
