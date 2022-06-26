@@ -32,12 +32,12 @@
         <p>20, Student</p>
         
         <p>📧 sujith_roshan@icloud.com</p> 
-
-        {% if site.github.is_user_page %}
-        <p class="view"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
         
         <p>📍 Hosur, India</p>
+
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/></a></p>
+        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
