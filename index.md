@@ -1,10 +1,3 @@
-### 20, Student
-
-📧 sujith_roshan@icloud.com
-
-📍 Hosur, India 
-<hr>
-
 <div> <!--Education-->
     <h2 style="font-size: 19px">EDUCATION</h2>
     ⊙ <strong>B. Tech. in Computer Science & Engineering</strong> <br>
