@@ -61,7 +61,7 @@
    Hackerrank <br>
    27 Jan, 2022 
    <br><br>
-   ⊙ <strong>Skill Certification - SQL</strong> <br>
+   ⊙ <strong><a href="https://www.hackerrank.com/certificates/02dd312b5dec">Skill Certification - SQL</a></strong> <br>
    Hackerrank <br>
    27 Jan, 2022
    <br><br>
