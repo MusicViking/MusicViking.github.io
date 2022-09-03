@@ -7,7 +7,7 @@
     <br><br>
     ⊙ <strong>BSc in Programming and Data Science</strong> <br>
     Indian Institute of Technology Madras <br>
-    <b>8.8</b> <br>
+    <b>8.5</b> <br>
     2020 - Present
     <br><br>
     ⊙ <strong>Class XII</strong> <br> 
@@ -32,9 +32,9 @@
 
 <div> <!--Personal Projects-->
     <h2>PERSONAL PROJECTS</h2>
-    ⊙ <strong><em>Optimizer</em></strong> <br>
+    ⊙ <strong><a href="https://github.com/MusicViking/Optimization-and-Numerical-Methods">Optimizer</a></strong> <br>
     <p style="font-size: 13px">A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. </p>
-    ⊙ <strong><em>GPA Calculator</em></strong> <br>
+    ⊙ <strong><a href="https://github.com/MusicViking/GPA-Calculator">GPA Calculator</a></strong> <br>
     <p style="font-size: 13px">A Python based CGPA calculator. Works by taking a '.csv' file as input and calculates both CGPA and SGPA (on a 10-point scale) using the grades and grade points info for all the courses provided in the '.csv' file.</p>
     ⊙ <strong><em>Tax Management System</em></strong> <br>
     <p style="font-size: 13px">A fully-functional Website that helps people pay their taxes online. Built with HTML, CSS, JavaScript at the frontend and PHP at the backend.</p>
