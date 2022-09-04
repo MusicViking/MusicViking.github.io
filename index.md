@@ -36,8 +36,8 @@
     <p style="font-size: 13px">A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. </p>
     ⊙ <strong>GPA Calculator</strong> <br>
     <p style="font-size: 13px">A Python based CGPA calculator. Works by taking a '.csv' file as input and calculates both CGPA and SGPA (on a 10-point scale) using the grades and grade points info for all the courses provided in the '.csv' file.</p>
-    ⊙ <strong><em>Tax Management System</em></strong> <br>
-    <p style="font-size: 13px">A fully-functional Website that helps people pay their taxes online. Built with HTML, CSS, JavaScript at the frontend and PHP at the backend.</p>
+    ⊙ <strong><a href="https://github.com/MusicViking/Tax-Management-System">Tax Management System</a></strong> <br>
+    <p style="font-size: 13px">A Java project that simulates the process of filing taxes. This project is focused on the concepts of OOP and using those to simulate a functional Tax Management System.</p>
     ⊙ <strong><em>Movie Review Site</em></strong> <br>
     <p style="font-size: 13px">A website that helps you find the perfect movie for the day. Gives short reviews and ratings about a movie/TV-show.</p>
     <br>
