@@ -31,7 +31,7 @@
 </div><hr>
 
 <div> <!--Personal Projects-->
-    <h2>PERSONAL PROJECTS</h2>
+    <h2>PROJECTS</h2>
     ⊙ <strong><a href="https://github.com/MusicViking/Optimization-and-Numerical-Methods">Optimizer</a></strong> <br>
     <p style="font-size: 13px">A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. </p>
     ⊙ <strong>GPA Calculator</strong> <br>
