@@ -43,6 +43,13 @@
     <br>
 </div><hr>
 
+<div> <!--Achievements-->
+    <h2>EXPERIENCE</h2>
+    ⊙ <strong>Smart Odisha Hackathon 2022</strong> <br>
+    <p style="font-size: 13px">We built an Alumni tracking platform for the alumni to register and facilitate interaction among the alumni as well as with their alma mater. This hackathon was organized by the Odisha University of Technology and Research (OUTR), Bhubaneshwar on behalf of the Skill Development and Technical Education Department, Government of Odisha and had participants from all over the nation with more than 2000+ registrations and over 66 teams qualifying for finals at OUTR, Bhubaneshwar. </p>
+    <br>
+</div><hr>
+
 <div> <!--Certificates-->
     <h2>CERTIFICATES</h2>
    ⊙ <strong><a href="https://drive.google.com/file/d/1-6ebuPItDKnzw9k3zPPMlLx6nY-DXFue/view?usp=sharing">Programming and Data Science - Foundational Level</a></strong> <br>
