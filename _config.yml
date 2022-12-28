@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Sujith Roshan
 plugins: 
  - jekyll-seo-tag
-avatar: ./profile.JPG
+logo: ./profile.JPG
