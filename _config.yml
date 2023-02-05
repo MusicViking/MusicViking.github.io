@@ -1,6 +1,7 @@
+title: Sujith Roshan
+show_downloads: false
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
-title: Sujith Roshan
 plugins: 
  - jekyll-remote-theme
-# logo: ./profile.JPG
+logo: 
