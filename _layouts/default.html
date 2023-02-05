@@ -6,11 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" type="image/png" href="../assets/img/icons8-resume-30.png">
-    {% include head-custom.html %}
   </head>
+
   <body>
     <div class="wrapper">
       <header>
@@ -35,7 +34,7 @@
         <p>📍 Coimbatore, India</p>
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/></a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="github"/></a></p>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -46,11 +45,13 @@
         </ul>
         {% endif %}
       </header>
+
       <section>
 
       {{ content }}
 
       </section>
+
       <footer>
         <p><small>Made with ❤️ using GitHub Pages</small></p>
       </footer>
