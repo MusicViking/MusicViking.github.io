@@ -16,7 +16,6 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
-  text-align: center;
 }
 
 h1, h2, h3 {
@@ -25,7 +24,6 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
-  text-align: center;
 }
 
 h2 {
@@ -55,6 +53,10 @@ a small {
 
 a:hover small {
   color:#777;
+}
+
+.header_items{
+  text-align: center;
 }
 
 .wrapper {
