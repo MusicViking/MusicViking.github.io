@@ -3,7 +3,7 @@
     <h2 style="font-size: 19px">EDUCATION</h2>
     ⊙ <strong>B. Tech. in Computer Science & Engineering</strong> <br>
     Amrita Vishwa Vidyapeetham, Coimbatore <br>
-    <b>8.83</b> <br>
+    <b>8.5</b> <br>
     2020 - Present
     <br><br>
     ⊙ <strong>BSc in Programming and Data Science</strong> <br>
