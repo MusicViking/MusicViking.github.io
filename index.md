@@ -1,4 +1,5 @@
-<div> <!--Education-->
+<!--Education-->
+<div> 
     <h2 style="font-size: 19px">EDUCATION</h2>
     ⊙ <strong>B. Tech. in Computer Science & Engineering</strong> <br>
     Amrita Vishwa Vidyapeetham, Coimbatore <br>
@@ -22,15 +23,16 @@
     <br><br>
 </div><hr>
 
-<div> <!--Skills-->
+<!--Skills-->
+<div> 
     <h2>SKILLS</h2>
-    ⊙ <strong>Python</strong> ⊙ <strong>Data Structures & Algorithms</strong> <br>
+    ⊙ <strong>Python</strong> ⊙ <strong>Shell Scripting</strong> <br>
     ⊙ <strong>SQL</strong> ⊙ <strong>C</strong> ⊙ <strong>C++</strong> ⊙ <strong>Java</strong> <br>
-    ⊙ <strong>HTML, CSS, JavaScript</strong> 
     <br><br>
 </div><hr>
 
-<div> <!--Personal Projects-->
+<!--Personal Projects-->
+<div> 
     <h2>PROJECTS</h2>
     ⊙ <strong><a href="https://github.com/MusicViking/Optimization-and-Numerical-Methods">Optimizer</a></strong> <br>
     <p style="font-size: 13px">A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. </p>
@@ -43,7 +45,8 @@
     <br>
 </div><hr>
 
-<div> <!--Achievements-->
+<!--Achievements-->
+<div> 
     <h2>EXPERIENCE</h2>
     ⊙ <strong><a href="https://drive.google.com/file/d/1GaZwQgGXg68gEVnm5QIPmaTTitl35aha/view?usp=share_link">Smart Odisha Hackathon 2022</a></strong> <br>
     <p style="font-size: 13px">
@@ -52,7 +55,8 @@
     <br>
 </div><hr>
 
-<div> <!--Certificates-->
+<!--Certificates-->
+<div> 
     <h2>CERTIFICATES</h2>
    ⊙ <strong><a href="https://drive.google.com/file/d/1-6ebuPItDKnzw9k3zPPMlLx6nY-DXFue/view?usp=sharing">Programming and Data Science - Foundational Level</a></strong> <br>
    Indian Institute of Technology Madras <br>
@@ -68,18 +72,20 @@
    <br><br>
 </div><hr>
 
-<div> <!--Languages-->
+<!--Languages-->
+<div> 
     <h2>LANGUAGES</h2>
-   ⊙ <strong>English</strong> ⊙ <strong>Hindi</strong> <br>
+   ⊙ <strong>English</strong> ⊙ <strong>Hindi</strong>
    ⊙ <strong>Tamil</strong> ⊙ <strong>Kannada</strong> 
     <br><br>
 </div><hr>
 
-<div> <!--Interests-->
+<!--Interests-->
+<!-- <div> 
     <h2>INTERESTS</h2>
    ⊙ <strong>Competetive Coding</strong> <br>
    ⊙ <strong>Cricket, Football and Basketball</strong> <br>
    ⊙ <strong>Movies/ TV shows</strong> <br>
    ⊙ <strong>Travel</strong> <br>
     <br><br>
-</div><hr>
+</div><hr> -->
