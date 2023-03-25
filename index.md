@@ -31,30 +31,6 @@
     <br><br>
 </div><hr>
 
-<!--Personal Projects-->
-<div> 
-    <h2>PROJECTS</h2>
-    ⊙ <strong><a href="https://github.com/MusicViking/Optimization-and-Numerical-Methods">Optimizer</a></strong> <br>
-    <p style="font-size: 13px">A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. </p>
-    ⊙ <strong>GPA Calculator</strong> <br>
-    <p style="font-size: 13px">A Python based CGPA calculator. Works by taking a '.csv' file as input and calculates both CGPA and SGPA (on a 10-point scale) using the grades and grade points info for all the courses provided in the '.csv' file.</p>
-    ⊙ <strong><a href="https://github.com/MusicViking/Tax-Management-System">Tax Management System</a></strong> <br>
-    <p style="font-size: 13px">A Java project that simulates the process of filing taxes. The objective of this project is to understand the OOP concepts and simulate a functional tax management system using the same. </p>
-    ⊙ <strong><em>Movie Review Site</em></strong> <br>
-    <p style="font-size: 13px">A website that helps you find the perfect movie for the day. Gives short reviews and ratings about a movie/TV-show.</p>
-    <br>
-</div><hr>
-
-<!--Achievements-->
-<div> 
-    <h2>EXPERIENCE</h2>
-    ⊙ <strong><a href="https://drive.google.com/file/d/1GaZwQgGXg68gEVnm5QIPmaTTitl35aha/view?usp=share_link">Smart Odisha Hackathon 2022</a></strong> <br>
-    <p style="font-size: 13px">
-    We built an Alumni tracking platform for the alumni to register and facilitate interaction among the alumni as well as with their alma mater. 
-    This hackathon was organized by the Odisha University of Technology and Research (OUTR), Bhubaneshwar on behalf of the Skill Development and Technical Education Department, Government of Odisha and had participants from all over the nation with more than 2000+ registrations and over 66 teams qualifying for finals at OUTR, Bhubaneshwar.</p>
-    <br>
-</div><hr>
-
 <!--Certificates-->
 <div> 
     <h2>CERTIFICATES</h2>
@@ -72,6 +48,30 @@
    <br><br>
 </div><hr>
 
+<!--Technical Interests>
+
+<!--Personal Projects-->
+<div> 
+    <h2>PROJECTS</h2>
+    ⊙ <strong><a href="https://github.com/MusicViking/Optimization-and-Numerical-Methods">Optimizer</a></strong> <br>
+    <p style="font-size: 13px">A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. </p>
+    ⊙ <strong>GPA Calculator</strong> <br>
+    <p style="font-size: 13px">A Python based CGPA calculator. Works by taking a '.csv' file as input and calculates both CGPA and SGPA (on a 10-point scale) using the grades and grade points info for all the courses provided in the '.csv' file.</p>
+    ⊙ <strong><a href="https://github.com/MusicViking/Tax-Management-System">Tax Management System</a></strong> <br>
+    <p style="font-size: 13px">A Java project that simulates the process of filing taxes. The objective of this project is to understand the OOP concepts and simulate a functional tax management system using the same. </p>
+    <br>
+</div><hr>
+
+<!--Achievements-->
+<div> 
+    <h2>ACHIEVEMENTS</h2>
+    ⊙ <strong><a href="https://drive.google.com/file/d/1GaZwQgGXg68gEVnm5QIPmaTTitl35aha/view?usp=share_link">Smart Odisha Hackathon 2022</a></strong> <br>
+    <p style="font-size: 13px">
+    We built an Alumni tracking platform for the alumni to register and facilitate interaction among the alumni as well as with their alma mater. 
+    This hackathon was organized by the Odisha University of Technology and Research (OUTR), Bhubaneshwar on behalf of the Skill Development and Technical Education Department, Government of Odisha and had participants from all over the nation with more than 2000+ registrations and over 66 teams qualifying for finals at OUTR, Bhubaneshwar.</p>
+    <br>
+</div><hr>
+
 <!--Languages-->
 <div> 
     <h2>LANGUAGES</h2>
@@ -79,13 +79,3 @@
    ⊙ <strong>Tamil</strong> ⊙ <strong>Kannada</strong> 
     <br><br>
 </div><hr>
-
-<!--Interests-->
-<!-- <div> 
-    <h2>INTERESTS</h2>
-   ⊙ <strong>Competetive Coding</strong> <br>
-   ⊙ <strong>Cricket, Football and Basketball</strong> <br>
-   ⊙ <strong>Movies/ TV shows</strong> <br>
-   ⊙ <strong>Travel</strong> <br>
-    <br><br>
-</div><hr> -->
