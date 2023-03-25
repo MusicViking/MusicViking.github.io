@@ -1,3 +1,13 @@
+<!-- Career Objective -->
+<div>
+    <h2 style="font-size: 19px">CAREER OBJECTIVE</h2>
+    <p style="font-size: 13px">
+        As a budding computer science engineer proficient in Python, Java, and databases, my career objective is to leverage my technical skills and experience in a dynamic and innovative team that values problem-solving, collaboration, and effective communication. With a long-term view, I aim to contribute to the growth of the organization by utilizing my expertise in software development, database management, and systems integration.
+    </p>
+</div>
+
+        
+
 <!--Education-->
 <div> 
     <h2 style="font-size: 19px">EDUCATION</h2>
