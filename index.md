@@ -1,7 +1,7 @@
 <!-- Career Objective -->
 <div>
-    <h2 style="font-size: 19px">CAREER OBJECTIVE</h2>
-    <p style="font-size: 13px">
+    <h2 style="font-size: 12px">CAREER OBJECTIVE</h2>
+    <p style="font-size: 11px">
         As a budding computer science engineer proficient in Python, Java, and databases, my career objective is to leverage my technical skills and experience in a dynamic and innovative team that values problem-solving, collaboration, and effective communication. With a long-term view, I aim to contribute to the growth of the organization by utilizing my expertise in software development, database management, and systems integration.
     </p>
 </div>
@@ -10,7 +10,7 @@
 
 <!--Education-->
 <div> 
-    <h2 style="font-size: 19px">EDUCATION</h2>
+    <h2 style="font-size: 12px">EDUCATION</h2>
     ⊙ <strong>B. Tech. in Computer Science & Engineering</strong> <br>
     Amrita Vishwa Vidyapeetham, Coimbatore <br>
     <b>8.5 / 10</b> <br>
@@ -64,11 +64,11 @@
 <div> 
     <h2>PROJECTS</h2>
     ⊙ <strong><a href="https://github.com/MusicViking/Optimization-and-Numerical-Methods">Optimizer</a></strong> <br>
-    <p style="font-size: 13px">A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. </p>
+    <p style="font-size: 11px">A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. </p>
     ⊙ <strong>GPA Calculator</strong> <br>
-    <p style="font-size: 13px">A Python based CGPA calculator. Works by taking a '.csv' file as input and calculates both CGPA and SGPA (on a 10-point scale) using the grades and grade points info for all the courses provided in the '.csv' file.</p>
+    <p style="font-size: 11px">A Python based CGPA calculator. Works by taking a '.csv' file as input and calculates both CGPA and SGPA (on a 10-point scale) using the grades and grade points info for all the courses provided in the '.csv' file.</p>
     ⊙ <strong><a href="https://github.com/MusicViking/Tax-Management-System">Tax Management System</a></strong> <br>
-    <p style="font-size: 13px">A Java project that simulates the process of filing taxes. The objective of this project is to understand the OOP concepts and simulate a functional tax management system using the same. </p>
+    <p style="font-size: 11px">A Java project that simulates the process of filing taxes. The objective of this project is to understand the OOP concepts and simulate a functional tax management system using the same. </p>
     <br>
 </div><hr>
 
@@ -76,7 +76,7 @@
 <div> 
     <h2>ACHIEVEMENTS</h2>
     ⊙ <strong><a href="https://drive.google.com/file/d/1GaZwQgGXg68gEVnm5QIPmaTTitl35aha/view?usp=share_link">Smart Odisha Hackathon 2022</a></strong> <br>
-    <p style="font-size: 13px">
+    <p style="font-size: 11px">
     We built an Alumni tracking platform for the alumni to register and facilitate interaction among the alumni as well as with their alma mater. 
     This hackathon was organized by the Odisha University of Technology and Research (OUTR), Bhubaneshwar on behalf of the Skill Development and Technical Education Department, Government of Odisha and had participants from all over the nation with more than 2000+ registrations and over 66 teams qualifying for finals at OUTR, Bhubaneshwar.</p>
     <br>
