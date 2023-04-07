@@ -2,7 +2,7 @@
 <div>
     <h2 style="font-size: 12px">CAREER OBJECTIVE</h2>
     <p style="font-size: 11px">
-        As a budding computer science engineer proficient in Python, Java, and databases, my career objective is to leverage my technical skills and experience in a dynamic and innovative team that values problem-solving, collaboration, and effective communication. With a long-term view, I aim to contribute to the growth of the organization by utilizing my expertise in software development, database management, and systems integration.
+        My career objective as a future computer science engineer proficient in Python, Java, and DBMS is to join an innovative team that values collaboration, effective communication, and problem-solving. In the long term, I aim to utilize my expertise in software development, database management, and systems integration to contribute to the growth of the organization.
     </p>
 </div>
 
@@ -36,8 +36,10 @@
 <div> 
     <h2 style="font-size: 12px">SKILLS</h2>
     <p style="font-size: 11px">
-        ⊙ <strong>Python</strong> ⊙ <strong>Shell Scripting</strong> <br>
-        ⊙ <strong>SQL</strong> ⊙ <strong>C</strong> ⊙ <strong>C++</strong> ⊙ <strong>Java</strong> <br>
+        <strong>⊚ Programming:</strong> Python ⊙ Shell Scripting ⊙ Java ⊙ Haskell ⊙ SQL ⊙ C++ <br>
+        <strong>⊚ Operating Systems:</strong> Windows ⊙ Ubuntu ⊙ macOS (versions 11 and higher) <br>
+        <strong>⊚ Tools:</strong> PostgreSQL ⊙ GitHub ⊙ Jupyter Notebook ⊙ VS Code ⊙ Replit <br>
+        <strong>⊚ Other:</strong> MS PowerPoint & Keynote (macOS) ⊙ MS Word & Pages (macOS) ⊙ MS Excel & Numbers (macOS)
     </p>
 </div>
 
@@ -60,7 +62,15 @@
    
 </div>
 
-<!--Technical Interests>
+<!--Technical Interests-->
+<div>
+    <h2 style="font-size: 12px">TECHNICAL INTERESTS</h2>
+    <p style="font-size: 11px">
+        ⊙ Object Oriented Paradigm 
+        ⊙ DBMS
+        ⊙ Machine Learning
+    </p>
+</div>
 
 <!--Personal Projects-->
 <div> 
@@ -81,7 +91,9 @@
     <p style="font-size: 11px">
         ⊙ <strong><a href="https://drive.google.com/file/d/1GaZwQgGXg68gEVnm5QIPmaTTitl35aha/view?usp=share_link">Smart Odisha Hackathon 2022</a></strong> <br>
         We built an Alumni tracking platform for the alumni to register and facilitate interaction among the alumni as well as with their alma mater. 
-        This hackathon was organized by the Odisha University of Technology and Research (OUTR), Bhubaneshwar on behalf of the Skill Development and Technical Education Department, Government of Odisha and had participants from all over the nation with more than 2000+ registrations and over 66 teams qualifying for finals at OUTR, Bhubaneshwar.
+        This hackathon was organized by the Odisha University of Technology and Research (OUTR), Bhubaneshwar on behalf of the Skill Development and Technical Education Department, Government of Odisha and had participants from all over the nation with more than 2000+ registrations and over 66 teams qualifying for finals at OUTR, Bhubaneshwar.<br>
+        ⊙ <strong>Cricket - South Zone</strong> <br>
+        Played for Amrita Vishwa Vidyapeetham at the AIU SOUTH ZONE INTER UNIVERSITY CRICKET TOURNAMENT.<br>
     </p>
 </div>
 
