@@ -66,8 +66,8 @@
 <div>
     <h2 style="font-size: 12px">TECHNICAL INTERESTS</h2>
     <p style="font-size: 11px">
-        ⊙ Object Oriented Paradigm 
-        ⊙ DBMS
+        ⊙ Object Oriented Paradigm <br>
+        ⊙ DBMS <br>
         ⊙ Machine Learning
     </p>
 </div>
