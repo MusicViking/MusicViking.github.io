@@ -10,7 +10,7 @@ body {
 }
 
 title {
-  font-size: 13px;
+  font-size: 14px;
 }
 h1, h2, h3, h4, h5, h6 {
   color:#222;
@@ -265,6 +265,7 @@ footer {
 
   header ul, header p.view {
     position:static;
+    size: 12px;
   }
 
   pre, code {
