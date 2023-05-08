@@ -94,10 +94,10 @@
     <h2 style="font-size: 13px">ACHIEVEMENTS</h2>
     <p style="font-size: 12px">
         ⊙ <strong><a href="https://cricheroes.in/player-profile/1990660/Sujith-Roshan#STATS"> Cricket - All India University South Zone Tournament</a></strong> <br>
-        Played for Amrita Vishwa Vidyapeetham in the <strong>AIU South Zone Inter University</strong> cricket tournament. <br>
+        Played for Amrita Vishwa Vidyapeetham in the AIU South Zone Inter University cricket tournament. <br>
         <strong>Certificate(s):</strong> Form 3 Certificate <br>
         ⊙ <strong><a href="https://drive.google.com/file/d/1GaZwQgGXg68gEVnm5QIPmaTTitl35aha/view?usp=share_link">Smart Odisha Hackathon 2022</a></strong> <br>
-        Special Mention for our alumni tracking website from <strong>Skill Development and Technical Education Department, Government of Odisha.</strong> <br>
+        Special Mention for our alumni tracking website from Skill Development and Technical Education Department, Government of Odisha. <br>
         <strong>Venue:</strong> Odisha University of Technology and Research (OUTR), Bhubaneshwar <br>
     </p>
 </div>
