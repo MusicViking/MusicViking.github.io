@@ -34,7 +34,7 @@
 
 <!--Skills-->
 <div> 
-    <h2 style="font-size: 12px">SKILLS</h2>
+    <h2 style="font-size: 12px">TECHNICAL SKILLS</h2>
     <p style="font-size: 11px">
         <strong>⊚ Programming:</strong> Python ⊙ Shell Scripting ⊙ Java ⊙ Haskell ⊙ SQL ⊙ C++ <br>
         <strong>⊚ Operating Systems:</strong> Windows ⊙ Ubuntu ⊙ macOS (versions 11 and higher) <br>
@@ -45,7 +45,7 @@
 
 <!--Certificates-->
 <div> 
-    <h2 style="font-size: 12px">CERTIFICATES</h2>
+    <h2 style="font-size: 12px">CERTIFICATIONS/UPSKILLING</h2>
     <p style="font-size: 11px">
         ⊙ <strong><a href="https://drive.google.com/file/d/1-6ebuPItDKnzw9k3zPPMlLx6nY-DXFue/view?usp=sharing">Programming and Data Science - Foundational Level</a></strong> <br>
         Indian Institute of Technology Madras <br>
@@ -73,15 +73,23 @@
 </div>
 
 <!--Personal Projects-->
-<div> 
-    <h2 style="font-size: 12px">PROJECTS</h2>
+<div>
+    <h2 style="font-size: 12px">GITHUB PROJECTS</h2>
     <p style="font-size: 11px">
-        ⊙ <strong><a href="https://github.com/MusicViking/Optimization-and-Numerical-Methods">Optimizer</a></strong> <br>
+        ⊙ <strong><a href="https://github.com/MusicViking/Optimization-and-Numerical-Methods">Optimizer</a></strong><br> <!--https://github.com/MusicViking/Optimization-and-Numerical-Methods-->
         A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. <br>
         ⊙ <strong>GPA Calculator</strong> <br>
         A Python based CGPA calculator. Works by taking a '.csv' file as input and calculates both CGPA and SGPA (on a 10-point scale) using the grades and grade points info for all the courses provided in the '.csv' file. <br>
+    </p>
+</div>
+
+<div> 
+    <h2 style="font-size: 12px">TEAM PROJECTS</h2>
+    <p style="font-size: 11px">
         ⊙ <strong><a href="https://github.com/MusicViking/Tax-Management-System">Tax Management System</a></strong> <br>
-        A Java project that simulates the process of filing taxes. The objective of this project is to understand the OOP concepts and simulate a functional tax management system using the same.
+        <strong>Role:</strong> Developer <br>
+        <strong>Objective:</strong> To understand the OOP concepts and simulate a functional tax management system using the same. <br>
+        <strong>Outcome:</strong> A Java program that simulates managing taxes using different classes and interfaces. <br>
     </p>
 </div>
 
@@ -89,11 +97,12 @@
 <div> 
     <h2 style="font-size: 12px">ACHIEVEMENTS</h2>
     <p style="font-size: 11px">
-        ⊙ <strong><a href="https://cricheroes.in/player-profile/1990660/Sujith-Roshan#STATS"> Cricket - South Zone</a></strong> <br>
-        Played for Amrita Vishwa Vidyapeetham in the <strong>AIU South Zone Inter University</strong> cricket tournament.<br>
+        ⊙ <strong><a href="https://cricheroes.in/player-profile/1990660/Sujith-Roshan#STATS"> Cricket - All India University South Zone Tournament</a></strong> <br>
+        Played for Amrita Vishwa Vidyapeetham in the <strong>AIU South Zone Inter University</strong> cricket tournament. <br>
+        <strong>Certificate(s):</strong> Form 3 Certificate <br>
         ⊙ <strong><a href="https://drive.google.com/file/d/1GaZwQgGXg68gEVnm5QIPmaTTitl35aha/view?usp=share_link">Smart Odisha Hackathon 2022</a></strong> <br>
-        We built an Alumni tracking platform for the alumni to register and facilitate interaction among the alumni as well as with their alma mater. 
-        This hackathon was organized by the Odisha University of Technology and Research (OUTR), Bhubaneshwar on behalf of the Skill Development and Technical Education Department, Government of Odisha and had participants from all over the nation with more than 2000+ registrations and over 65 teams qualifying for the finals at OUTR, Bhubaneshwar.<br>
+        Special Mention for our alumni tracking website from <strong>Skill Development and Technical Education Department, Government of Odisha.</strong> <br>
+        <strong>Venue:</strong> Odisha University of Technology and Research (OUTR), Bhubaneshwar <br>
     </p>
 </div>
 
@@ -102,7 +111,7 @@
     <h2 style="font-size: 12px">LANGUAGES</h2>
     <p style="font-size: 11px">
         ⊙ <strong>English</strong> ⊙ <strong>Hindi</strong>
-        ⊙ <strong>Tamil</strong> ⊙ <strong>Kannada</strong>
+        ⊙ <strong>Tamil</strong> ⊙ <strong>Kannada (Conversational)</strong>
         ⊙ <strong>Telugu (Conversational)</strong> 
     </p>
 </div>
