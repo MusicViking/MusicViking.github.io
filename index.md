@@ -1,15 +1,15 @@
 <!-- Career Objective -->
 <div>
-    <h2 style="font-size: 12px">CAREER OBJECTIVE</h2>
-    <p style="font-size: 11px">
+    <h2 style="font-size: 13px">CAREER OBJECTIVE</h2>
+    <p style="font-size: 12px">
         My career objective as a future computer science engineer proficient in Python, Java, and DBMS is to join an innovative team that values collaboration, effective communication, and problem-solving. In the long term, I aim to utilize my expertise in software development, database management, and systems integration to contribute to the growth of the organization.
     </p>
 </div>
 
 <!--Education-->
 <div> 
-    <h2 style="font-size: 12px">EDUCATION</h2>
-    <p style="font-size: 11px">
+    <h2 style="font-size: 13px">EDUCATION</h2>
+    <p style="font-size: 12px">
         ⊙ <strong>B. Tech. in Computer Science & Engineering</strong> <br>
         Amrita Vishwa Vidyapeetham, Coimbatore <br>
         <b>8.5 / 10</b> <br>
@@ -34,8 +34,8 @@
 
 <!--Skills-->
 <div> 
-    <h2 style="font-size: 12px">TECHNICAL SKILLS</h2>
-    <p style="font-size: 11px">
+    <h2 style="font-size: 13px">TECHNICAL SKILLS</h2>
+    <p style="font-size: 12px">
         <strong>⊚ Programming:</strong> Python ⊙ Shell Scripting ⊙ Java ⊙ Haskell ⊙ SQL ⊙ C++ <br>
         <strong>⊚ Operating Systems:</strong> Windows ⊙ Ubuntu ⊙ macOS (versions 11 and higher) <br>
         <strong>⊚ Tools:</strong> PostgreSQL ⊙ GitHub ⊙ Jupyter Notebook ⊙ VS Code ⊙ Replit <br>
@@ -45,8 +45,8 @@
 
 <!--Certificates-->
 <div> 
-    <h2 style="font-size: 12px">CERTIFICATIONS/UPSKILLING</h2>
-    <p style="font-size: 11px">
+    <h2 style="font-size: 13px">CERTIFICATIONS/UPSKILLING</h2>
+    <p style="font-size: 12px">
         ⊙ <strong><a href="https://drive.google.com/file/d/1-6ebuPItDKnzw9k3zPPMlLx6nY-DXFue/view?usp=sharing">Programming and Data Science - Foundational Level</a></strong> <br>
         Indian Institute of Technology Madras <br>
         April, 2022
@@ -60,8 +60,8 @@
 
 <!--Technical Interests-->
 <div>
-    <h2 style="font-size: 12px">TECHNICAL INTERESTS</h2>
-    <p style="font-size: 11px">
+    <h2 style="font-size: 13px">TECHNICAL INTERESTS</h2>
+    <p style="font-size: 12px">
         ⊙ Object Oriented Paradigm <br>
         ⊙ DBMS <br>
         ⊙ Machine Learning
@@ -70,8 +70,8 @@
 
 <!--Personal Projects-->
 <div>
-    <h2 style="font-size: 12px">GITHUB PROJECTS</h2>
-    <p style="font-size: 11px">
+    <h2 style="font-size: 13px">GITHUB PROJECTS</h2>
+    <p style="font-size: 12px">
         ⊙ <strong><a href="https://github.com/MusicViking/Optimization-and-Numerical-Methods">Optimizer</a></strong><br> <!--https://github.com/MusicViking/Optimization-and-Numerical-Methods-->
         A Python based calculator for both single and multi-variable optimization techniques such as Fibonacci Search, Golden Section Search, Newton-Raphson, Cauchy's Steepest Descent, etc. <br>
         ⊙ <strong>GPA Calculator</strong> <br>
@@ -80,8 +80,8 @@
 </div>
 
 <div> 
-    <h2 style="font-size: 12px">TEAM PROJECTS</h2>
-    <p style="font-size: 11px">
+    <h2 style="font-size: 13px">TEAM PROJECTS</h2>
+    <p style="font-size: 12px">
         ⊙ <strong><a href="https://github.com/MusicViking/Tax-Management-System">Tax Management System</a></strong> <br>
         <strong>Role:</strong> Developer <br>
         <strong>Objective:</strong> To understand the OOP concepts and simulate a functional tax management system using the same. <br>
@@ -91,8 +91,8 @@
 
 <!--Achievements-->
 <div> 
-    <h2 style="font-size: 12px">ACHIEVEMENTS</h2>
-    <p style="font-size: 11px">
+    <h2 style="font-size: 13px">ACHIEVEMENTS</h2>
+    <p style="font-size: 12px">
         ⊙ <strong><a href="https://cricheroes.in/player-profile/1990660/Sujith-Roshan#STATS"> Cricket - All India University South Zone Tournament</a></strong> <br>
         Played for Amrita Vishwa Vidyapeetham in the <strong>AIU South Zone Inter University</strong> cricket tournament. <br>
         <strong>Certificate(s):</strong> Form 3 Certificate <br>
@@ -104,8 +104,8 @@
 
 <!--Languages-->
 <div> 
-    <h2 style="font-size: 12px">LANGUAGES</h2>
-    <p style="font-size: 11px">
+    <h2 style="font-size: 13px">LANGUAGES</h2>
+    <p style="font-size: 12px">
         ⊙ <strong>English</strong> ⊙ <strong>Hindi</strong>
         ⊙ <strong>Tamil</strong> ⊙ <strong>Kannada (Conversational)</strong>
         ⊙ <strong>Telugu (Conversational)</strong> 
