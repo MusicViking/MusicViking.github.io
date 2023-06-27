@@ -36,7 +36,7 @@
 <div> 
     <h2 style="font-size: 13px">TECHNICAL SKILLS</h2>
     <p style="font-size: 12px">
-        <strong>⊚ Programming:</strong> Python ⊙ Shell Scripting ⊙ Java ⊙ Haskell ⊙ SQL ⊙ C++ <br>
+        <strong>⊚ Programming:</strong> Java ⊙ Scala ⊙ Python ⊙ Shell Scripting ⊙ Haskell ⊙ SQL ⊙ C++ <br>
         <strong>⊚ Operating Systems:</strong> Windows ⊙ Ubuntu ⊙ macOS (versions 11 and higher) <br>
         <strong>⊚ Tools:</strong> PostgreSQL ⊙ GitHub ⊙ Jupyter Notebook ⊙ VS Code ⊙ Replit <br>
         <strong>⊚ Other:</strong> MS PowerPoint & Keynote (macOS) ⊙ MS Word & Pages (macOS) ⊙ MS Excel & Numbers (macOS)
