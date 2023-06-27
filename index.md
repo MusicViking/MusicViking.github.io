@@ -51,9 +51,11 @@
         Indian Institute of Technology Madras <br>
         April, 2022
         <br>
-        ⊙ Skill Certification - <strong><a href="https://www.hackerrank.com/certificates/94e3b1f849f2">Python</a></strong> & <strong><a href="https://www.hackerrank.com/certificates/02dd312b5dec">SQL</a></strong><br>
-        Hackerrank <br>
-        27 Jan, 2022 
+        <!-- ⊙ Skill Certification - <strong><a href="https://www.hackerrank.com/certificates/94e3b1f849f2">Python</a></strong> & <strong><a href="https://www.hackerrank.com/certificates/02dd312b5dec">SQL</a></strong><br> -->
+        <!-- Hackerrank <br> -->
+        ⊙ <strong> Programming Concepts using Java </strong> <br>
+        Indian Institute of Technology Madras <br>
+        Grade: <strong>A</strong>
     </p>
    
 </div>
