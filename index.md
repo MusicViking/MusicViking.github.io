@@ -90,6 +90,13 @@
         <strong>Objective:</strong> To understand the OOP concepts and simulate a functional tax management system using the same. <br>
         <strong>Outcome:</strong> A Java program that simulates managing taxes using different classes and interfaces. <br>
     </p>
+    <p style="font-size: 12px">
+        ⊙ <strong><a href="https://github.com/MusicViking/Tax-Management-System">Song Recommendation</a></strong> <br>
+        <strong>Role:</strong> Developer <br>
+        <strong>Objective:</strong> To handle large amounts of song data and use the same to identify similar songs/playlists. <br>
+        <strong>Outcome:</strong> A program that simulates song recommendation, ranks playlists by popularity and provides an efficient way to search for songs. <br>
+        <strong>Tools:</strong> <em>Apache Hadoop, Python, Jupyter Notebook. </em>
+    </p>
 </div>
 
 <!--Achievements-->
