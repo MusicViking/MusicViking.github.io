@@ -89,8 +89,6 @@
         <strong>Role:</strong> Developer <br>
         <strong>Objective:</strong> To understand the OOP concepts and simulate a functional tax management system using the same. <br>
         <strong>Outcome:</strong> A Java program that simulates managing taxes using different classes and interfaces. <br>
-    </p>
-    <p style="font-size: 12px">
         ⊙ <strong><a href="https://github.com/MusicViking/song-recommendation">Song Recommendation</a></strong> <br>
         <strong>Role:</strong> Developer <br>
         <strong>Objective:</strong> To handle large amounts of song data and use the same to identify similar songs/playlists. <br>
