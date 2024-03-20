@@ -57,6 +57,7 @@
         ⊙ <strong> Programming Concepts using Java </strong> <br>
         Indian Institute of Technology Madras <br>
         Grade: <strong>A</strong>
+        <br>
         <!-- ⊙ <strong> Mining of Massive Datasets </strong> <br>
         Amrita Vishwa Vidyapeetham <br>
         Grade: <strong>A</strong> -->
