@@ -45,7 +45,7 @@
 
 <!--Certificates-->
 <div> 
-    <h2 style="font-size: 13px">CERTIFICATIONS/UPSKILLING</h2>
+    <h2 style="font-size: 13px">CERTIFICATIONS/UPSKILLING/INTERNSHIPS</h2>
     <p style="font-size: 12px">
         ⊙ <strong><a href="https://drive.google.com/file/d/1-6ebuPItDKnzw9k3zPPMlLx6nY-DXFue/view?usp=sharing">Programming and Data Science - Foundational Level</a></strong> <br>
         Indian Institute of Technology Madras <br>
@@ -54,12 +54,15 @@
         <!-- ⊙ Skill Certification - <strong><a href="https://www.hackerrank.com/certificates/94e3b1f849f2">Python</a></strong> & <strong><a href="https://www.hackerrank.com/certificates/02dd312b5dec">SQL</a></strong><br>
         Hackerrank <br>
         27 Jan, 2022 <br> -->
-        <!-- ⊙ <strong> Programming Concepts using Java </strong> <br>
+        ⊙ <strong> Programming Concepts using Java </strong> <br>
         Indian Institute of Technology Madras <br>
-        Grade: <strong>A</strong> -->
-        ⊙ <strong> Mining of Massive Datasets </strong> <br>
-        Amrita Vishwa Vidyapeetham <br>
         Grade: <strong>A</strong>
+        <!-- ⊙ <strong> Mining of Massive Datasets </strong> <br>
+        Amrita Vishwa Vidyapeetham <br>
+        Grade: <strong>A</strong> -->
+        ⊙ <strong> Internship </strong> <br>
+        ARM <br>
+        Period: <strong>Jan'24 - June'24</strong>
     </p>
    
 </div>
@@ -70,7 +73,7 @@
     <p style="font-size: 12px">
         ⊙ Object Oriented Paradigm <br>
         ⊙ DBMS <br>
-        ⊙ Machine Learning
+        ⊙ DevOps
     </p>
 </div>
 
