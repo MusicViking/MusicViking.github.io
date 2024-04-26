@@ -47,10 +47,11 @@
 <div> 
     <h2 style="font-size: 13px">INTERNSHIPS/EXPERIENCE</h2>
     <p style="font-size: 12px">
-        <strong>⊚ ARM</strong> <br>
-        Team: <strong>CE-CPU, Bengaluru</strong> <br>
-        Period: Jan'24 - Jun'24 <br>
-        Worked on studying, testing and verifying the shared memory models of ARM architecture using simulation tools like herd7 and diy7. Analyzed litmus tests, identifying variations and potentially reducing test suite size. By parallelizing the project flow and implementing CI/CD with Jenkins, development and testing were streamlined. Significant performance improvements (30-40x faster) were achieved by optimizing a critical stage within the project, enabling generation of FPGA-ready ELF files after validation.
+        ⊚ <strong><a href='https://www.arm.com'>ARM</a></strong> <br>
+        <strong>Team:</strong> CE-CPU, Bengaluru <br>
+        <strong>Period:</strong> Jan'24 - Jun'24 <br>
+        Worked on studying, testing and verifying the shared memory models of ARM architecture. Analyzed litmus tests, identifying variations and potentially reducing test suite size. By parallelizing the project flow and implementing CI/CD, development and testing were streamlined. Significant performance improvements (30-40x faster) were achieved by optimizing a critical stage within the project, enabling generation of FPGA-ready ELF files after validation. <br>
+        <strong>Tools:</strong> <em>diy7, herd7, Python, Jenkins, Groovy for Jenkins </em>
     </p>
 </div>
 
