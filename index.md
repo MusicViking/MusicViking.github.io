@@ -2,7 +2,7 @@
 <div>
     <h2 style="font-size: 13px">CAREER OBJECTIVE</h2>
     <p style="font-size: 12px">
-        My career objective as a future computer science engineer proficient in Python, Java, and DBMS is to join an innovative team that values collaboration, effective communication, and problem-solving. In the long term, I aim to utilize my expertise in software development, database management, and systems integration to contribute to the growth of the organization.
+        My career objective as a future computer science engineer proficient in Python, Java, and Assembly Language is to join an innovative team that values collaboration, effective communication, and problem-solving. In the long term, I aim to utilize my expertise in developing efficient software solutions to contribute to the growth of the organization.
     </p>
 </div>
 
@@ -36,16 +36,28 @@
 <div> 
     <h2 style="font-size: 13px">TECHNICAL SKILLS</h2>
     <p style="font-size: 12px">
-        <strong>⊚ Programming:</strong> Java ⊙ Scala ⊙ Python ⊙ Shell Scripting ⊙ Haskell ⊙ SQL ⊙ C++ <br>
-        <strong>⊚ Operating Systems:</strong> Windows ⊙ Ubuntu ⊙ macOS (versions 11 and higher) <br>
-        <strong>⊚ Tools:</strong> PostgreSQL ⊙ GitHub ⊙ Jupyter Notebook ⊙ VS Code ⊙ Replit <br>
+        <strong>⊚ Programming:</strong> Java ⊙ Python ⊙ Shell Scripting ⊙ ARM Assembly ⊙ Haskell ⊙ SQL ⊙ C++ <br>
+        <strong>⊚ Operating Systems:</strong> Ubuntu ⊙ macOS ⊙ Windows <br>
+        <strong>⊚ Tools:</strong> Jenkins ⊙ PostgreSQL ⊙ GitHub ⊙ Jupyter Notebook ⊙ VS Code ⊙ Replit <br>
         <strong>⊚ Other:</strong> MS PowerPoint & Keynote (macOS) ⊙ MS Word & Pages (macOS) ⊙ MS Excel & Numbers (macOS)
+    </p>
+</div>
+
+<!--Internships/Experience-->
+<div> 
+    <h2 style="font-size: 13px">INTERNSHIPS/EXPERIENCE</h2>
+    <p style="font-size: 12px">
+        <strong>⊚ ARM</strong> <br>
+        Project: <strong>Directed Random Framework (DRF)</strong> <br>
+        Period: Jan'24 - Jun'24 <br>
+        Team: <strong>CE-CPU, Bengaluru</strong> <br>
+        Worked on studying, testing and verifying the shared memory models of ARM architecture using simulation tools like herd7 and diy7. Analyzed litmus tests, identifying variations and potentially reducing test suite size. By parallelizing the project flow and implementing CI/CD with Jenkins, development and testing were streamlined. Significant performance improvements (30-40x faster) were achieved by optimizing a critical stage within the project, enabling generation of FPGA-ready ELF files after validation.
     </p>
 </div>
 
 <!--Certificates-->
 <div> 
-    <h2 style="font-size: 13px">CERTIFICATIONS/UPSKILLING/INTERNSHIPS</h2>
+    <h2 style="font-size: 13px">CERTIFICATIONS/UPSKILLING</h2>
     <p style="font-size: 12px">
         ⊙ <strong><a href="https://drive.google.com/file/d/1-6ebuPItDKnzw9k3zPPMlLx6nY-DXFue/view?usp=sharing">Programming and Data Science - Foundational Level</a></strong> <br>
         Indian Institute of Technology Madras <br>
@@ -54,16 +66,13 @@
         <!-- ⊙ Skill Certification - <strong><a href="https://www.hackerrank.com/certificates/94e3b1f849f2">Python</a></strong> & <strong><a href="https://www.hackerrank.com/certificates/02dd312b5dec">SQL</a></strong><br>
         Hackerrank <br>
         27 Jan, 2022 <br> -->
-        ⊙ <strong> Programming Concepts using Java </strong> <br>
+        <!-- ⊙ <strong> Programming Concepts using Java </strong> <br>
         Indian Institute of Technology Madras <br>
         Grade: <strong>A</strong>
-        <br>
+        <br> -->
         <!-- ⊙ <strong> Mining of Massive Datasets </strong> <br>
         Amrita Vishwa Vidyapeetham <br>
         Grade: <strong>A</strong> -->
-        ⊙ <strong> Internship </strong> <br>
-        ARM <br>
-        Period: <strong>Jan'24 - June'24</strong>
     </p>
    
 </div>
