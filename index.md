@@ -48,9 +48,8 @@
     <h2 style="font-size: 13px">INTERNSHIPS/EXPERIENCE</h2>
     <p style="font-size: 12px">
         <strong>⊚ ARM</strong> <br>
-        Project: <strong>Directed Random Framework (DRF)</strong> <br>
-        Period: Jan'24 - Jun'24 <br>
         Team: <strong>CE-CPU, Bengaluru</strong> <br>
+        Period: Jan'24 - Jun'24 <br>
         Worked on studying, testing and verifying the shared memory models of ARM architecture using simulation tools like herd7 and diy7. Analyzed litmus tests, identifying variations and potentially reducing test suite size. By parallelizing the project flow and implementing CI/CD with Jenkins, development and testing were streamlined. Significant performance improvements (30-40x faster) were achieved by optimizing a critical stage within the project, enabling generation of FPGA-ready ELF files after validation.
     </p>
 </div>
