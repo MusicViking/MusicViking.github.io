@@ -38,7 +38,7 @@
     <p style="font-size: 12px">
         <strong>⊚ Programming:</strong> Python ⊙ Java ⊙ Shell Scripting ⊙ ARM Assembly ⊙ C  ⊙ C++ ⊙ SQL<br>
         <strong>⊚ Operating Systems:</strong> Ubuntu ⊙ macOS ⊙ Windows <br>
-        <strong>⊚ Tools:</strong> Jenkins ⊙ PostgreSQL ⊙ GitHub ⊙ Jupyter Notebook ⊙ VS Code ⊙ Replit <br>
+        <strong>⊚ Tools:</strong> Jenkins ⊙ PostgreSQL ⊙ Git ⊙ Jupyter Notebook ⊙ Hadoop ⊙ Replit <br>
         <strong>⊚ Other:</strong> MS PowerPoint & Keynote (macOS) ⊙ MS Word & Pages (macOS) ⊙ MS Excel & Numbers (macOS)
     </p>
 </div>
@@ -70,9 +70,9 @@
         Indian Institute of Technology Madras <br>
         Grade: <strong>A</strong>
         <br> -->
-        <!-- ⊙ <strong> Mining of Massive Datasets </strong> <br>
+        ⊙ <strong> Mining of Massive Datasets </strong> <br>
         Amrita Vishwa Vidyapeetham <br>
-        Grade: <strong>A</strong> -->
+        Grade: <strong>A</strong>
     </p>
    
 </div>
@@ -83,7 +83,8 @@
     <p style="font-size: 12px">
         ⊙ Object Oriented Paradigm <br>
         ⊙ DBMS <br>
-        ⊙ DevOps
+        <!-- ⊙ DevOps -->
+        ⊙ Data Science <br>
     </p>
 </div>
 
