@@ -70,9 +70,9 @@
         Indian Institute of Technology Madras <br>
         Grade: <strong>A</strong>
         <br> -->
-        ⊙ <strong> Mining of Massive Datasets </strong> <br>
+        <!-- ⊙ <strong> Mining of Massive Datasets </strong> <br>
         Amrita Vishwa Vidyapeetham <br>
-        Grade: <strong>A</strong>
+        Grade: <strong>A</strong> -->
     </p>
    
 </div>
